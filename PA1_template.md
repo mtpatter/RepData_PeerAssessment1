@@ -195,7 +195,7 @@ summary(activity)
 ##  NA's   :2304
 ```
 
-The steps variable is the only variable wih missing values.
+The steps variable is the only variable with missing values.
 There are 2304 missing values in the dataset.
 
 2) Devise a strategy to replace missing values.  I will replace the missing values with the average for that interval, since the pattern varies significantly over the
